@@ -51,13 +51,13 @@ my projects.
 
 ---
 
-## My Stats
+## :star: My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rampage128&show_icons=true&count_private=true&hide_border=true&hide_title=true)  
 
 ---
 
-## Also find me on
+## :mailbox: Also find me on
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/rampage128) &nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='32'>](https://www.instagram.com/rampage.128/) &nbsp; 
