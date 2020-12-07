@@ -2,7 +2,8 @@
 > Developer since 2003 and full time nerd since 1998
 
 I love writing software and making things. Now that you have found me on github 
-please feel free to check out my projects.
+please feel free to check out my profile below or browse through some of 
+my projects.
 
 ---
 
