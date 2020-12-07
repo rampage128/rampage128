@@ -8,42 +8,19 @@ my projects.
 
 ## :wrench: Stuff I Work With
 
-### Microcontrollers
-[![C/C++](https://img.shields.io/badge/C/C++-&#x2714;-green)][rcpp]
-
-### Web
-[![CSS](https://img.shields.io/badge/CSS-&#x2714;-green)][ecss]
-[![HTML](https://img.shields.io/badge/HTML-&#x1F855;-blue)][ehtml]
-[![Java](https://img.shields.io/badge/Java-&#x2714;-green)][rjava]
-[![JS](https://img.shields.io/badge/JavaScript-&#x2714;-green)][rjs]
-[![Less](https://img.shields.io/badge/Less-&#x1F855;-blue)][eless]
-[![MySQL](https://img.shields.io/badge/MySQL-&#x1F855;-blue)][emysql]
-[![PHP](https://img.shields.io/badge/PHP-&#x1F855;-blue)][ephp]
-[![Sass](https://img.shields.io/badge/Sass-&#x1F855;-blue)][esass]
-
-[![Symfony](https://img.shields.io/badge/Symfony-&#x1F855;-blue)][esymfony]
-[![Java](https://img.shields.io/badge/React-&#x1F855;-blue)][ereact]
-[![RxJS](https://img.shields.io/badge/RxJS-&#x1F855;-blue)][erxjs]
-
-### Games
-[![JME](https://img.shields.io/badge/JME-&#x1F855;-blue)][ejme]
-[![Unity](https://img.shields.io/badge/Unity-&#x1F855;-blue)][eunity]
-
-### Android Apps
-[![Java](https://img.shields.io/badge/Java-&#x2714;-green)][rjava]
-[![Kotlin](https://img.shields.io/badge/Kotlin-&#x1F855;-blue)][ekotlin]
-
-### Desktop Applications
-[![Java](https://img.shields.io/badge/Java-&#x2714;-green)][rjava]
-
-### Other stuff
-[![Lua](https://img.shields.io/badge/Lua-&#x2714;-green)][rlua]
-[![Python](https://img.shields.io/badge/Python-&#x2714;-green)][rpy]
+| AOE | Languages and Tools |
+| --- | ------------------- |
+| Microcontrollers | [![C/C++](https://img.shields.io/badge/C/C++-✔-green)][rcpp] |
+| Web | [![CSS](https://img.shields.io/badge/CSS-✔-green)][ecss] [![HTML](https://img.shields.io/badge/HTML-➚-blue)][ehtml] [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] [![JS](https://img.shields.io/badge/JavaScript-✔-green)][rjs] [![Less](https://img.shields.io/badge/Less-➚-blue)][eless] [![MySQL](https://img.shields.io/badge/MySQL-➚-blue)][emysql] [![PHP](https://img.shields.io/badge/PHP-➚-blue)][ephp] [![Sass](https://img.shields.io/badge/Sass-➚-blue)][esass] [![Symfony](https://img.shields.io/badge/Symfony-➚-blue)][esymfony] |
+| Games | [![JME](https://img.shields.io/badge/JME-➚-blue)][ejme] [![Unity](https://img.shields.io/badge/Unity-➚-blue)][eunity] |
+| Android | [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] [![Kotlin](https://img.shields.io/badge/Kotlin-➚-blue)][ekotlin] |
+| Desktop | [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] |
+| Other Stuff | [![Lua](https://img.shields.io/badge/Lua-✔-green)][rlua] [![Python](https://img.shields.io/badge/Python-✔-green)][rpy] |
 
 > **Please note:** 
-> - A green badge with an arrow will link you to my repos that use that language
->   Unfortunately github does not support linking for every language used :-(
-> - A blue badge will link you to the product website 
+> - A green badge with an check mark will link you to my repos that use that language.
+>   Unfortunately github does not support linking for every language used :-(.
+> - A blue badge with an arrow will link you to the product website 
 >   (this is for languages/frameworks I have no github link to)
 > - I have categorized these, so some languages/frameworks might appear more 
 >   than once, if they fall into multiple categories.
