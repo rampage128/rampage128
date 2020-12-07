@@ -11,7 +11,7 @@ my projects.
 | AOE | Languages and Tools |
 | --- | ------------------- |
 | Microcontrollers | [![C/C++](https://img.shields.io/badge/C/C++-✔-green)][rcpp] |
-| Web | [![CSS](https://img.shields.io/badge/CSS-✔-green)][ecss] [![HTML](https://img.shields.io/badge/HTML-➚-blue)][ehtml] [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] [![JS](https://img.shields.io/badge/JavaScript-✔-green)][rjs] [![Less](https://img.shields.io/badge/Less-➚-blue)][eless] [![MySQL](https://img.shields.io/badge/MySQL-➚-blue)][emysql] [![PHP](https://img.shields.io/badge/PHP-➚-blue)][ephp] [![Sass](https://img.shields.io/badge/Sass-➚-blue)][esass] [![Symfony](https://img.shields.io/badge/Symfony-➚-blue)][esymfony] |
+| Web | [![CSS](https://img.shields.io/badge/CSS-✔-green)][ecss] [![HTML](https://img.shields.io/badge/HTML-➚-blue)][ehtml] [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] [![JS](https://img.shields.io/badge/JavaScript-✔-green)][rjs] [![Less](https://img.shields.io/badge/Less-➚-blue)][eless] [![MySQL](https://img.shields.io/badge/MySQL-➚-blue)][emysql] [![PHP](https://img.shields.io/badge/PHP-➚-blue)][ephp] [![React](https://img.shields.io/badge/React-➚-blue)][ereact] [![Redux](https://img.shields.io/badge/Redux-➚-blue)][eredux] [![RxJS](https://img.shields.io/badge/RxJS-➚-blue)][erxjs] [![Sass](https://img.shields.io/badge/Sass-➚-blue)][esass] [![Symfony](https://img.shields.io/badge/Symfony-➚-blue)][esymfony] |
 | Games | [![JME](https://img.shields.io/badge/JME-➚-blue)][ejme] [![Unity](https://img.shields.io/badge/Unity-➚-blue)][eunity] |
 | Android | [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] [![Kotlin](https://img.shields.io/badge/Kotlin-➚-blue)][ekotlin] |
 | Desktop | [![Java](https://img.shields.io/badge/Java-✔-green)][rjava] |
@@ -57,3 +57,4 @@ my projects.
 [ekotlin]: https://kotlinlang.org/
 [erxjs]: https://rxjs-dev.firebaseapp.com/
 [emysql]: https://www.mysql.com/
+[eredux]: https://redux.js.org/
