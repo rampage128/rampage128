@@ -5,7 +5,6 @@ I love writing software and making things. Now that you have found me on github
 please feel free to check out my profile below or browse through some of 
 my projects.
 
----
 
 ## :wrench: Stuff I Work With
 
@@ -49,13 +48,11 @@ my projects.
 > - I have categorized these, so some languages/frameworks might appear more 
 >   than once, if they fall into multiple categories.
 
----
 
 ## :star: My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rampage128&show_icons=true&count_private=true&hide_border=true&hide_title=true)  
 
----
 
 ## :mailbox: Also find me on
 
